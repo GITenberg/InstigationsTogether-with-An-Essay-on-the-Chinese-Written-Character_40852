@@ -1,0 +1,46 @@
+_repo: InstigationsTogether-with-An-Essay-on-the-Chinese-Written-Character_40852
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Fenollosa, Ernest
+    birthdate: 1853
+    deathdate: 1908
+    gutenberg_agent_id: '40853'
+    url: http://www.gutenberg.org/2009/agents/40853
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pound, Ezra
+    aliases:
+    - Atheling, William
+    - Pound, Ezra Loomis
+    birthdate: 1885
+    deathdate: 1972
+    gutenberg_agent_id: '2637'
+    url: http://www.gutenberg.org/2009/agents/2637
+    wikipedia: http://en.wikipedia.org/wiki/Ezra_Pound
+description: ''
+gutenberg_issued: '2012-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40852'
+  lccn: '20008532'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greek language -- Translating'
+- !lcsh 'English literature -- 20th century -- History and criticism'
+- !lcsh 'French poetry -- 19th century -- History and criticism'
+- !lcc 'PN'
+- !lcsh 'Chinese language -- Writing'
+tableOfContents: A study in French poets -- Henry James -- Remy de Gourmont -- In
+  the vortex -- Our tetrarchal précieuse -- Genesis -- Arnaut Daniel -- Translators
+  of Greek -- An essay on the Chinese written Character, by E. Fenollosa.
+title: 'Instigations
+
+  Together with An Essay on the Chinese Written Character'
+url: http://www.gutenberg.org/ebooks/40852
