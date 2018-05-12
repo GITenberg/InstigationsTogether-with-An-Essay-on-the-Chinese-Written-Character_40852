@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2637
     wikipedia: http://en.wikipedia.org/wiki/Ezra_Pound
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40852#InstigationsTogether-with-An-Essay-on-the-Chinese-Written-Character
 gutenberg_issued: '2012-09-24'
 gutenberg_type: Text
 identifiers:
